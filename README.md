@@ -1,5 +1,5 @@
 Sorting Visualizer</br></br>
-<a href="https://github.com/Soumyaqwe/Sorting-Visualizer/settings/pages" rel="nofollow"><strong>➥ Live Demo</strong></a>
+<a href="https://soumyaqwe.github.io/Sorting-Visualizer/s" rel="nofollow"><strong>➥ Live Demo</strong></a>
 </br>
 <pre><b>                           Project Guide                                     </b></pre>
 1)HTML Structure</br>
