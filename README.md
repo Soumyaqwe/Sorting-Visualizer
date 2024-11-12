@@ -1,4 +1,4 @@
-Sorting Visualizer</br>
+Sorting Visualizer</br></br>
 <a href="https://github.com/Soumyaqwe/Sorting-Visualizer/settings/pages" rel="nofollow"><strong>➥ Live Demo</strong></a>
 </br>
 <center><u>Project Structure</u></center></br>
